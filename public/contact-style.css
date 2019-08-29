@@ -1,5 +1,6 @@
 
 body{
+	background-color: #EAD3E5;
     text-align: center;
     font-family: 'Sintony', sans-serif !important;
    margin-bottom: 100px;
@@ -52,16 +53,16 @@ h6{
 
 .logo{
 	position: absolute;
-    left: 20px;
-    width: 80px;
-    margin-top: 10px;
+    left: 127px;
+    width: 131px;
+    margin-top: 96px;
 	border-radius: 100%;
 	border : 1px solid rgba(0,0,0,0.7);
 }
 
 .heading h1{
 	font-size: 8rem;
-	color : gray;
+	color :black;
 	margin-top: 0px;
 	padding-top: 0px;
 	padding-bottom: 0px;
